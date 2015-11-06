@@ -1,0 +1,3 @@
+[console_scripts]
+legofy = legofy.cli:main
+

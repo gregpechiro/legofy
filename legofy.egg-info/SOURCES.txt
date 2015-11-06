@@ -1,0 +1,11 @@
+MANIFEST.in
+setup.py
+legofy/__init__.py
+legofy/cli.py
+legofy.egg-info/PKG-INFO
+legofy.egg-info/SOURCES.txt
+legofy.egg-info/dependency_links.txt
+legofy.egg-info/entry_points.txt
+legofy.egg-info/requires.txt
+legofy.egg-info/top_level.txt
+legofy/bricks/brick.png
